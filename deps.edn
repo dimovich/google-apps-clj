@@ -1,0 +1,7 @@
+{:paths ["src"]
+
+ :deps
+ {org.clojure/core.typed {:mvn/version "0.3.14"}
+  clj-time {:mvn/version "0.15.1"}
+  com.google.apis/google-api-services-sheets {:mvn/version "v4-rev12-1.22.0"}
+  com.google.oauth-client/google-oauth-client-jetty {:mvn/version "1.22.0"}}}
